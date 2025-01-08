@@ -1,0 +1,29 @@
+.box{
+    background-color: blue;
+    padding: 10px;
+}
+.Yellow{
+    color: yellow;
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.white-box{
+    background-color: red;
+    padding: 10px;
+}
+#container{
+    background-color: purple;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+
